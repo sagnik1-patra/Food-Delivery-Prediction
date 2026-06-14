@@ -1,0 +1,17 @@
+Feature,Importance
+Restaurant_Longitude,0.2173639923784466
+Restaurant_Latitude,0.19269933270973544
+Customer_Latitude,0.15075222153662976
+Geo_Distance_KM,0.1461422677779205
+Distance,0.13131137077053542
+Customer_Longitude,0.10864326367011064
+Order_Priority,0.05308755115662156
+Traffic_Conditions,0.0
+Restaurant_Rating,0.0
+Vehicle_Type,0.0
+Order_Time,0.0
+Delivery_Person_Experience,0.0
+Weather_Conditions,0.0
+Tip_Amount,0.0
+Customer_Rating,0.0
+Order_Cost,0.0

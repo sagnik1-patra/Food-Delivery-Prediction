@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1_Score
+Naive Bayes,0.45,0.4375,0.35,0.3888888888888889
+KNN,0.6,0.6,0.6,0.6
+Decision Tree,0.45,0.45,0.45,0.45

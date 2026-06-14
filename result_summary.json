@@ -1,0 +1,43 @@
+{
+    "dataset_path": "C:\\Users\\NXTWAVE\\Downloads\\Food Delivery Prediction\\Food_Delivery_Time_Prediction.csv",
+    "output_directory": "C:\\Users\\NXTWAVE\\Downloads\\Food Delivery Prediction",
+    "total_records": 200,
+    "total_features": 16,
+    "delivery_time_threshold": 72.775,
+    "best_model": "KNN",
+    "best_model_f1_score": 0.6,
+    "knn_best_params": {
+        "metric": "euclidean",
+        "n_neighbors": 5,
+        "weights": "uniform"
+    },
+    "decision_tree_best_params": {
+        "criterion": "gini",
+        "max_depth": 4,
+        "min_samples_leaf": 2,
+        "min_samples_split": 15
+    },
+    "model_results": [
+        {
+            "Model": "Naive Bayes",
+            "Accuracy": 0.45,
+            "Precision": 0.4375,
+            "Recall": 0.35,
+            "F1_Score": 0.3888888888888889
+        },
+        {
+            "Model": "KNN",
+            "Accuracy": 0.6,
+            "Precision": 0.6,
+            "Recall": 0.6,
+            "F1_Score": 0.6
+        },
+        {
+            "Model": "Decision Tree",
+            "Accuracy": 0.45,
+            "Precision": 0.45,
+            "Recall": 0.45,
+            "F1_Score": 0.45
+        }
+    ]
+}
